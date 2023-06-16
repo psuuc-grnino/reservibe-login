@@ -1,5 +1,5 @@
-const userUname = "Ge";
-const userPass = "jing";
+const userUname = "MissKyeopta";
+const userPass = "S1y4L4NG#sapatN4";
 const btnLogin = document.querySelector('#btnLogin');
 function checkCredentials(){
     const username = document.getElementById('username').value;
